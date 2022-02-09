@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/malih/Desktop/project1/CalTest.cpp
+iostream
+-
+string
+-
+stdexcept
+-
+Calendar.h
+C:/Users/malih/Desktop/project1/Calendar.h
+
+C:/Users/malih/Desktop/project1/Calendar.h
+Date.h
+C:/Users/malih/Desktop/project1/Date.h
+Reminder.h
+C:/Users/malih/Desktop/project1/Reminder.h
+stdexcept
+-
+
+C:/Users/malih/Desktop/project1/Date.h
+string
+-
+iostream
+-
+
+C:/Users/malih/Desktop/project1/Reminder.h
+Date.h
+C:/Users/malih/Desktop/project1/Date.h
+string
+-
+
